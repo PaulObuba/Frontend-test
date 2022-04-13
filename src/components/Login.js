@@ -3,7 +3,7 @@ import React from 'react'
 const Login = () => {
   return (
     <div>
-       <div className="bg-gray grid grid-cols-2 justify-start items-center bg-slate-300 h-screen w-screen">
+       <div className="bg-gray grid grid-cols-2 justify-start items-center bg-slate-300 ">
         <div className="bg-banner h-full w-full bg-no-repeat bg-cover bg-center">
           <p className="absolute bottom-4 ml-48 text-white text-xl font-semibold w-56 tracking-wider">Building exceptional services with Back Office Support and Buisness Performance</p>
         </div>
